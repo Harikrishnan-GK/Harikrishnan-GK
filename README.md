@@ -1,6 +1,6 @@
 ### Hi! I'm Hari Krishnan👋
 
-- 🔭 I’m currently working on Data Science Hackathon project
+- 🔭 I’m currently working as a Data Analyst at Rexel,Paris
 - 🌱 I’m currently learning Azure Data Platform
 - 👯 I’m looking to collaborate on Data Science projects
 - 🤔 I’m looking for Full time/Internship jobs in a Data-Centric Organisation in Europe
